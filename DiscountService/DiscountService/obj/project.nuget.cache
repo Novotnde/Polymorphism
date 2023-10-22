@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "LEbjBezPKsirfEgjzFFvY60WbtH/f5e7RYkscdKuehhZz23Uqkzz9RWn7NrI5UI9tDCs+62Md8ZMshsoMN8OfQ==",
+  "success": true,
+  "projectFilePath": "/Users/denisa/Projects/DiscountService/DiscountService/DiscountService.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.uxdivers.com/grial'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+/Users/denisa/Projects/FileDirectoryHandler/FileDirectoryHandler/bin/Debug/net7.0/FileDirectoryHandler
+/Users/denisa/Projects/FileDirectoryHandler/FileDirectoryHandler/bin/Debug/net7.0/FileDirectoryHandler.deps.json
+/Users/denisa/Projects/FileDirectoryHandler/FileDirectoryHandler/bin/Debug/net7.0/FileDirectoryHandler.runtimeconfig.json
+/Users/denisa/Projects/FileDirectoryHandler/FileDirectoryHandler/bin/Debug/net7.0/FileDirectoryHandler.dll
+/Users/denisa/Projects/FileDirectoryHandler/FileDirectoryHandler/bin/Debug/net7.0/FileDirectoryHandler.pdb
+/Users/denisa/Projects/FileDirectoryHandler/FileDirectoryHandler/obj/Debug/net7.0/FileDirectoryHandler.csproj.AssemblyReference.cache
+/Users/denisa/Projects/FileDirectoryHandler/FileDirectoryHandler/obj/Debug/net7.0/FileDirectoryHandler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denisa/Projects/FileDirectoryHandler/FileDirectoryHandler/obj/Debug/net7.0/FileDirectoryHandler.AssemblyInfoInputs.cache
+/Users/denisa/Projects/FileDirectoryHandler/FileDirectoryHandler/obj/Debug/net7.0/FileDirectoryHandler.AssemblyInfo.cs
+/Users/denisa/Projects/FileDirectoryHandler/FileDirectoryHandler/obj/Debug/net7.0/FileDirectoryHandler.csproj.CoreCompileInputs.cache
+/Users/denisa/Projects/FileDirectoryHandler/FileDirectoryHandler/obj/Debug/net7.0/FileDirectoryHandler.dll
+/Users/denisa/Projects/FileDirectoryHandler/FileDirectoryHandler/obj/Debug/net7.0/refint/FileDirectoryHandler.dll
+/Users/denisa/Projects/FileDirectoryHandler/FileDirectoryHandler/obj/Debug/net7.0/FileDirectoryHandler.pdb
+/Users/denisa/Projects/FileDirectoryHandler/FileDirectoryHandler/obj/Debug/net7.0/FileDirectoryHandler.genruntimeconfig.cache
+/Users/denisa/Projects/FileDirectoryHandler/FileDirectoryHandler/obj/Debug/net7.0/ref/FileDirectoryHandler.dll

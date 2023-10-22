@@ -1,0 +1,15 @@
+/Users/denisa/Projects/DiscountService/DiscountService/bin/Debug/net7.0/DiscountService
+/Users/denisa/Projects/DiscountService/DiscountService/bin/Debug/net7.0/DiscountService.deps.json
+/Users/denisa/Projects/DiscountService/DiscountService/bin/Debug/net7.0/DiscountService.runtimeconfig.json
+/Users/denisa/Projects/DiscountService/DiscountService/bin/Debug/net7.0/DiscountService.dll
+/Users/denisa/Projects/DiscountService/DiscountService/bin/Debug/net7.0/DiscountService.pdb
+/Users/denisa/Projects/DiscountService/DiscountService/obj/Debug/net7.0/DiscountService.csproj.AssemblyReference.cache
+/Users/denisa/Projects/DiscountService/DiscountService/obj/Debug/net7.0/DiscountService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denisa/Projects/DiscountService/DiscountService/obj/Debug/net7.0/DiscountService.AssemblyInfoInputs.cache
+/Users/denisa/Projects/DiscountService/DiscountService/obj/Debug/net7.0/DiscountService.AssemblyInfo.cs
+/Users/denisa/Projects/DiscountService/DiscountService/obj/Debug/net7.0/DiscountService.csproj.CoreCompileInputs.cache
+/Users/denisa/Projects/DiscountService/DiscountService/obj/Debug/net7.0/DiscountService.dll
+/Users/denisa/Projects/DiscountService/DiscountService/obj/Debug/net7.0/refint/DiscountService.dll
+/Users/denisa/Projects/DiscountService/DiscountService/obj/Debug/net7.0/DiscountService.pdb
+/Users/denisa/Projects/DiscountService/DiscountService/obj/Debug/net7.0/DiscountService.genruntimeconfig.cache
+/Users/denisa/Projects/DiscountService/DiscountService/obj/Debug/net7.0/ref/DiscountService.dll
